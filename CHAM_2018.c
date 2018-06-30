@@ -1,10 +1,11 @@
 /*
  ============================================================================
  Name        : CHAM_2018.c
- Author      : 
+ Author      : Hwajeong Seo
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
+ Homepage    : https://crypto.modoo.at
  ============================================================================
  */
 #include <stdio.h>
